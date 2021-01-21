@@ -3,7 +3,7 @@ Mit 8.628 lab
 
 qemu : git clone https://github.com/mit-pdos/6.828-qemu.git
 
-```mermaid
+```flow
 graph LR
 rect["[]表示正方形"] -->roundedRect("()表示圆角矩形")
 roundedRect --> condition{"{}表示菱形"}
